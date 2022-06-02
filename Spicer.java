@@ -3,6 +3,7 @@
 // Spicer drivetrain products API
 // Dana Aftermarket
 // Dana Developer Portal 
+// contact and register your email for access to the API
 
 package dana;
 
