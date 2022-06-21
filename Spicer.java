@@ -1,9 +1,10 @@
 
 
 // Spicer drivetrain products API
-// Dana Aftermarket
+// Dana Aftermarket, precision tooling and aftermarket parts
 // Dana Developer Portal 
 // contact and register your email for access to the API
+// 
 
 package dana;
 
