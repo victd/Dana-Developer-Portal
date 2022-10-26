@@ -4,7 +4,7 @@
 // Dana Aftermarket, precision tooling and aftermarket parts
 // Dana Developer Portal 
 // contact and register your email for access to the API
-// 
+// the minimum base version of PTT gets update every now and then, 2.8.150
 
 package dana;
 
