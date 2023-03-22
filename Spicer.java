@@ -7,6 +7,7 @@
 // the minimum base version of PTT gets update every now and then, 2.8.150
 // JPro makers of Noregon obd software
 // Detroit Diesel needs engine regen
+// automate workflow for the paths of diagnostics, needing a lot of mechanical hands on experience
 // quiero, ensaneme como lavarme las manos, trillium park, el sazon tia flor
 
 package dana;
