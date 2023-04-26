@@ -8,7 +8,7 @@
 // JPro makers of Noregon obd software
 // Detroit Diesel needs engine regen
 // automate workflow for the paths of diagnostics, needing a lot of mechanical hands on experience
-// quiero, ensaneme como lavarme las manos, trillium park, roller, el sazon tia flor
+// quiero, ensaneme como lavarme las manos, trillium park, roller, el sazon tia flor, plug leak, then patch from interior
 
 package dana;
 
