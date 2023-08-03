@@ -5,7 +5,7 @@
 // Dana Developer Portal 
 // contact and register your email for access to the API
 // the minimum base version of PTT gets update every now and then, 2.8.150
-// JPro makers of Noregon obd software
+// JPro makers of Noregon obd software, covers Volvo Mack
 // Detroit Diesel needs engine regen
 // automate workflow for the paths of diagnostics, needing a lot of mechanical hands on experience
 // quiero, ensaneme como lavarme las manos, trillium park, roller, boulevard, el sazon tia flor, plug leak, then patch from interior
