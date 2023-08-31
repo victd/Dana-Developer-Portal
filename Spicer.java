@@ -9,6 +9,7 @@
 // Detroit Diesel needs engine regen
 // automate workflow for the paths of diagnostics, needing a lot of mechanical hands on experience
 // quiero, ensaneme como lavarme las manos, trillium park, roller, boulevard, el sazon tia flor, plug leak, then patch from interior
+// pickup and ext ladder
 
 package dana;
 
