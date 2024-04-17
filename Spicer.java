@@ -5,7 +5,7 @@
 // Dana Developer Portal 
 // contact and register your email for access to the API
 // the minimum base version of PTT gets update every now and then, 2.8.150
-// JPro makers of Noregon obd software, covers Volvo Mack
+// JPro makers of Noregon obd software, covers Volvo Mack  litres/gallons
 // compare the features to Allison transmission program
 // Detroit Diesel needs engine regen, TOK Performance Allison, Cummins, Voith
 // automate workflow for the paths of diagnostics, needing a lot of mechanical hands on experience
